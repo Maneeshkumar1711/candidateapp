@@ -1,0 +1,21 @@
+[
+    {
+        "candidate_id": 1,
+        "candidate_name": "maneesh",
+        "email": "aipractice@cognine.com",
+        "skills": [
+            "python",
+            "csv"
+        ],
+        "experience": 4
+    },
+    {
+        "candidate_id": 1,
+        "candidate_name": "maneesh",
+        "email": "maneesh@gmail.com",
+        "skills": [
+            "python"
+        ],
+        "experience": 4
+    }
+]  

@@ -1,0 +1,11 @@
+node_modules/
+build/
+venv/
+__pycache__/
+*.pyc
+.env
+
+__azurite_db_*.json
+__blobstorage__/
+AzuriteConfig
+.vscode/
